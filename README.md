@@ -11,14 +11,14 @@ I'm a passionate **full-stack developer** with **3 years of experience**, mainly
 ### 📚 What I'm Learning  
 - ⚡ **Tailwind CSS** for modern UI development  
 - 📈 **Scaling applications** with Redis & Node.js  
-- 🎥 **Content creation & monetization** on **Instagram (@FearlessBecoming) & YouTube**  
 
 ### 🤝 Collaboration & Interests  
 - Open to collaborating on **AI, web apps, and automation tools**  
 - Always interested in **building side projects** and **exploring new ideas**  
 
 ### 📫 How to Reach Me  
-- **Instagram:** [@FearlessBecoming](https://www.instagram.com/fearlessbecoming/)  
+- **Email:** balansijayditch@gmail.com
+- **LinkedIn** https://www.linkedin.com/in/jayditch-b-694a521b6/
 - **GitHub:** You're already here! 😆  
 
 ### ⚡ Fun Fact  
