@@ -18,7 +18,7 @@ I'm a passionate **full-stack developer** with **3 years of experience**, mainly
 
 ### 📫 How to Reach Me  
 - **Email:** balansijayditch@gmail.com
-- **LinkedIn** https://www.linkedin.com/in/jayditch-b-694a521b6/
+- **LinkedIn:** https://www.linkedin.com/in/jayditch-b-694a521b6/
 - **GitHub:** You're already here! 😆  
 
 ### ⚡ Fun Fact  
